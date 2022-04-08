@@ -1,2 +1,1 @@
-# jpx-tokyo-stock-exchange-prediction
-Kaggle Competition - JPX Tokyo Stock Exchange Prediction
+[JPX Tokyo Stock Exchange Prediction](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/overview)
